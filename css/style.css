@@ -1,0 +1,45 @@
+.nav-color{
+    background-color: #0065c3;
+}
+.pepsi-logo{
+    border: 1px solid white;
+    background-color: white;
+}
+.img-bg{
+    height: 600px;
+    width: 100%;
+    background-image: url(./../img/background.png);
+    background-color: black;
+}
+.unlock{
+    height: 100px;
+    width: 400px;
+    border-radius: 30px;
+    padding: 6px;
+    background-color: white;
+}
+.text-color-blue{
+    color: blue;
+}
+.free{
+    height: 20px;
+    width: 40px;
+  background-color: white;
+}
+.btn-get-it-now{
+    border: 1px solid white;
+    color: white;
+    padding: 5px;
+   background: none;
+    border-radius: 20px;
+}
+.main-div{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+   
+}
+.unlock-size{
+    font-size: 80px;
+}
